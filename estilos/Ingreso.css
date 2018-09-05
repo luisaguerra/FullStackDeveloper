@@ -1,0 +1,49 @@
+body
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.seccionIngreso {    
+    align-self: center;
+    float: center;
+    vertical-align: center;
+}
+
+.tablaIngreso
+{
+    width: 60%;
+    height: 80%;
+    border-radius: 15px 15px 15px 15px;
+    background-color: darkcyan;
+    color: white;
+
+    padding: 2px;
+    text-align: center;
+
+    border-color: black;
+    border: 1px;
+    border-style: solid;
+}
+
+.tablaIngreso tr
+{
+    height: 10px;
+
+    padding: 0px;
+    text-align: center;
+
+}
+
+.labelIngreso
+{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+} 
+
+.inputIngreso
+{
+    text-align: center;
+    color: darkblue;
+    font-size: 20px;
+} 

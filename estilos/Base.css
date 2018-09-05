@@ -1,0 +1,37 @@
+.H1
+{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+}
+     
+
+
+.TREncabezado
+{
+    height: 0px;
+    padding: 0%;
+}
+
+.botonAzul
+{
+    border-radius: 10px;
+    width: 60%;
+    height: 24px;
+
+    text-align: center;
+    background-color: darkblue;
+    border: 0px;
+
+    text-align: center;
+    color: white;
+    font-size: 16px;
+    
+}
+
+.botonAzul:hover, .botonAzul:focus
+{
+    text-align: center;
+    background-color: white;
+    color: blue;
+}

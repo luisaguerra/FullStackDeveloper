@@ -1,0 +1,153 @@
+
+.CirculoAzul
+{
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+
+    text-align: center;
+    background-color: blue;
+    color: white;
+}
+
+
+.CirculoAzul:hover, .CirculoAzul:focus
+{
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+
+    text-align: center;
+    background-color: white;
+    color: blue;
+}
+
+.CirculoRojo
+{
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+
+    text-align: center;
+    background-color: darkred;
+    color: white;
+}
+
+.CirculoRojo:hover,.CirculoRojo:focus
+{
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+
+    text-align: center;
+    background-color:  white;
+    color:darkred;
+}
+
+.CirculoVerde
+{
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+
+    text-align: center;
+    background-color: green;
+    color: white;
+}
+
+
+.CirculoVerde:hover, .CirculoVerde:focus
+{
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+
+    text-align: center;
+    background-color: white;
+    color: green;
+
+}
+
+.CirculoAmarillo
+{
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+
+    text-align: center;
+    background-color: yellow;
+    color: black;
+
+}
+
+.CirculoAmarillo:hover, .CirculoAmarillo:focus
+{
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+
+    text-align: center;
+    background-color: black;
+    color: yellow;
+}
+
+.CirculoGris
+{
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+
+    text-align: center;
+    background-color: darkgray;
+    color: yellow;
+}
+
+.CirculoGris:hover, .CirculoGris:focus
+{
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+
+    text-align: center;
+    background-color: yellow;
+    color: darkgray;
+}
+div {
+    float: left;
+}
+
+div:hover
+{
+    transform: scale(1.1) ;
+}
+
+p {
+    padding: 23%;
+    text-align: center;
+    text-decoration-color: chartreuse;
+    font-size:  30px;
+}
+
+p:hover, p:focus
+{
+    text-decoration-color: chartreuse;
+    text-decoration: red;
+    animation-delay: 10s;
+    font-size:  28px;
+
+}
+
+a {
+    padding: 23%;
+    text-align: center;
+    text-decoration-color: chartreuse;
+    font-size:  30px;
+}
+
+a:hover, a:focus
+{
+    text-decoration-color: chartreuse;
+    text-decoration: red;
+    animation-delay: 10s;
+    font-size:  28px;
+}
